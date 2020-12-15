@@ -10,4 +10,4 @@ Como não sou um programador focado no BackEnd, resolvi sair um pouco da minha "
 
 ## Criando API GraphQL em Node.js e TypeScript com TypeGraphQL
 
-Nesse workshop nós aprendi com a [Dani Evangelista](https://github.com/) como desenvolver uma API de uma forma rápida e simples com GraphQL utilizando apenas decorators disponibilizados pela biblioteca Typegraphql.
+Nesse workshop nós aprendi com a _Dani Evangelista_ como desenvolver uma API de uma forma rápida e simples com GraphQL utilizando apenas decorators disponibilizados pela biblioteca Typegraphql.
