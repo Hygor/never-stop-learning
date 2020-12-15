@@ -1,0 +1,18 @@
+{
+  "name": "never-stop-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Hygor/never-stop-learning.git",
+  "author": "Hygor Budny <hygor@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "class-validator": "^0.12.2",
+    "graphql": "^15.4.0",
+    "reflect-metadata": "^0.1.13",
+    "type-graphql": "^1.1.1"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.1.1",
+    "typescript": "^4.1.3"
+  }
+}
